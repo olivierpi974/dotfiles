@@ -9,7 +9,7 @@
     "editor.fontSize": 14,
     "editor.guides.bracketPairs": true,
     "editor.minimap.enabled": false,
-    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.multiCursorModifier": "alt",
     "editor.renderControlCharacters": true,
     "editor.rulers": [
         80,
